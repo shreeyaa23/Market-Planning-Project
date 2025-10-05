@@ -15,7 +15,7 @@ This project explores Brandito’s **international expansion opportunities**, us
 Brandito, a **U.S.-based branded merchandise provider**, faced **market saturation** domestically.  
 The challenge was to **find high-growth international markets** while ensuring **profitable, sustainable expansion**.  
 
-##  Market Selection & Analysis  
+## Market Selection & Analysis  
 
 **Key Factors Considered:**  
 GDP Growth  
